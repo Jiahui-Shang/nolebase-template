@@ -1,0 +1,22 @@
+Camera ID  -  0
+
+AWB ID  -  2
+
+AWB Name  -  2. Google Pixel 3
+
+BGCoeff  -  1
+RGCoeff  -  1
+
+BG 
+0.65527344
+0.5263672
+0.3486328
+0
+0
+
+RG 
+0.5058594
+0.6279297
+0.7314453
+0
+0
